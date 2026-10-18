@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+output_*/
+*.cif
+*.json
+*.pt
+*.tar
+*.tar.gz
+*.whl
